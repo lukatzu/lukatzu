@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=0012E5&center=true&vCenter=true&width=435&lines=Welcome+to+my+portfolio!)](https://git.io/typing-svg)
+<h1 align="center" [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=0012E5&center=true&vCenter=true&width=435&lines=Welcome+to+my+portfolio!)](https://git.io/typing-svg)</h1>
 
 <h1 align="center">I'm Luka </h1>
 <h3 align="center">Student | IT-Technican | Cybersecurity enthusiast </h3>
