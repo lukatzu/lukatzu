@@ -6,6 +6,7 @@
 ---
 
 I can speak 🇫🇮 | 🇸🇪 | 🇺🇸
+
 I’m currently learning **Wireshark and CCNA**  
 I’m working on **CCNA Certification**
 
@@ -14,6 +15,7 @@ Connect with me on **[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?
 ### Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) (Average)
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) (Beginner)
 
 Check out a website I made:
